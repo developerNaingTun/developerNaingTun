@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Naing Naing Tun
 
-<!--
+<h3 align="center"> I'm FullStack Developer.</h3>
+
 **developerNaingTun/developerNaingTun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
