@@ -1,8 +1,40 @@
 ### Hi there 👋 I'm Naing Naing Tun
+## Name
+[Naing Naing Tun]
 
-<h3 align="center"> I'm FullStack Developer.</h3>
+## Bio
+Software engineer with experience in developing web applications using ASP.NET Core and MSSQL Server. Passionate about learning new technologies and solving complex problems.
 
-**developerNaingTun/developerNaingTun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+* Programming languages: C#, SQL, HTML, CSS, JavaScript
+* Technologies: ASP.NET Core, MSSQL Server, Entity Framework Core, Razor Pages
+* Cloud computing: Azure, AWS EC2
+
+## Projects
+* CRM application (ASP.NET Core, MSSQL Server)
+* Bill Collection (ASP.NET Core, MSSQL Server)
+* Blog application (ASP.NET Core, Azure)
+
+## Contact
+* Email: [developer.naingnaingtun@gmail.com]
+* LinkedIn: [Your LinkedIn Profile URL]
+
+## Interests
+* Programming
+* Software development
+* Cloud computing
+* Machine learning
+* Artificial intelligence
+
+## Contributions
+* Open source projects: [List of open source projects you have contributed to]
+
+## Looking for
+* Full-time software engineering opportunities
+* Remote work opportunities
+
+## Additional Information
+* I am also interested in learning new technologies and contributing to open-source projects.
 
 Here are some ideas to get you started:
 
