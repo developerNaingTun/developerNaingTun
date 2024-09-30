@@ -25,6 +25,8 @@ Software engineer with experience in developing web applications using ASP.NET C
 * Cloud computing
 * Machine learning
 * Artificial intelligence
+* Piano <i class="fa-solid fa-piano"></i>
+* Flamenco Guitar
 
 ## Contributions
 * Open source projects: [List of open source projects you have contributed to]
