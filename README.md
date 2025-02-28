@@ -6,21 +6,23 @@
 Software engineer with experience in developing web applications using ASP.NET Core and MSSQL Server. Passionate about learning new technologies and solving complex problems.
 
 ## Skills
-* Programming languages: C#, SQL, HTML, CSS, JavaScript
-* Technologies: ASP.NET Core, MSSQL Server, Entity Framework Core, Razor Pages
+* Programming languages: C#, JavaScript, Python, VB, Delphi & Pascal, Dart
+* Database Technology: SQL, No-SQL, Collection, Document Database
+* Technologies: ASP.NET Core, MSSQL Server, Entity Framework Core, Razor Pages, NextJS
 * Cloud computing: Azure, AWS EC2
 
 ## Projects
 * CRM application (ASP.NET Core, MSSQL Server)
 * Bill Collection (ASP.NET Core, MSSQL Server)
 * Blog application (ASP.NET Core, Azure)
+* Work Order Maintenance Portal and Fault Reporting Mobile App
 
 ## Contact
 * Email: [developer.naingnaingtun@gmail.com]
 * LinkedIn: [Your LinkedIn Profile URL]
 
 ## Interests
-* Programming
+* Programming Language Architecture
 * Software development
 * Cloud computing
 * Machine learning
